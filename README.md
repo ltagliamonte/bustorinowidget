@@ -1,6 +1,6 @@
 #BusTorinoWidget
-BusTorinoWidget is a mac widget that present real time info for all the Turin bus stop.
-It also allows you to save you 6 preferred bus stop
+BusTorinoWidget is a mac widget that presents real time info for all the Turin bus stops.
+It also allows you to save you 6 preferred bus stops
 Pull requests are welcomed!
 
 Usage:
